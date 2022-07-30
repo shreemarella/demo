@@ -13,3 +13,33 @@ gitignore
 license
 
 Readme
+
+git stash
+
+git checkout // to change branch 
+
+git logs 
+
+git show
+
+git merge
+
+git diffrence
+
+git branch branchname
+
+git push / pull
+
+git tag
+
+git rm 
+
+git reset
+
+git config -global user.name "username"
+
+git config -global user.email "useremail"
+
+git remote 
+
+
